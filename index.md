@@ -14,7 +14,7 @@ I am a native speaker of English but also have a relatively high Japanese langua
 
 I like to reseach barred-spiral galaxies and the stars in them. I personally develop N-body numerical simulations of (resolved) galaxies to study stellar populations and kinematics.
 
-I am also a member of the <a href="https://www.galah-survey.org"<GALAH</a> and <a href="https://geckos-survey.org>GECKOS</a> survey collaboration teams.  
+I am also a member of the <a href="https://www.galah-survey.org">GALAH</a> and <a href="https://geckos-survey.org">GECKOS</a> survey collaboration teams.  
 
 You can find out about my publications [here](./reference-list.html).
 
