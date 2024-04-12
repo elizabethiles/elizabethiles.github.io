@@ -13,15 +13,15 @@ I am a native speaker of English but also have a relatively high Japanese langua
   <img src="./assets/images/MeKyoto.JPG" alt="kyoto">
   </td>
   <td width="50%">
-  <img src="./assets/images/HokudaiSnow.JPG alt="Hokudai">
+  <img src="./assets/images/HokudaiSnow.JPG" alt="Hokudai">
   </td>
   </tr>
 </table>
 
 
 
-:---------------------:|:-------------------------:
-<div width="50%">![The University of Hokkaido museum building with trees in front covered in snow](./assets/images/HokudaiSnow.JPG)</div> | ![Me in a yukata walking up stairs in traditional Kyoto](./assets/images/MeKyoto.JPG)
+
+![The University of Hokkaido museum building with trees in front covered in snow](./assets/images/HokudaiSnow.JPG)</div> ![Me in a yukata walking up stairs in traditional Kyoto](./assets/images/MeKyoto.JPG)
 
  * * *
 
