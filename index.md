@@ -10,13 +10,13 @@ I am a native speaker of English but also have a relatively high Japanese langua
 
 <p float="left">
 <div class="polaroid">
-  <img src="./assets/images/MeKyoto.JPG" alt="kyoto" style="width:100%">
+  <img src="./assets/images/MeKyoto.JPG" alt="kyoto" style="width:50%">
   <div class="container">
   <p>Cinque Terre</p>
   </div>
 </div>
 <div class="polaroid">
-  <img src="./assets/images/MeKyoto.JPG" alt="kyoto" style="width:100%">
+  <img src="./assets/images/MeKyoto.JPG" alt="kyoto" style="width:50%">
   <div class="container">
   <p>Pinque Terre</p>
   </div>
