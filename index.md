@@ -14,6 +14,20 @@ I am a native speaker of English but also have a relatively high Japanese langua
   </div>
 </div>
 
+<div class="row">
+  <div class="column">
+    <div class="polaroid">
+  	<img src="./assets/images/MeKyoto.JPG" alt="kyoto" style="width:100%">
+  	<div class="container">
+  	<p>Cinque Terre</p>
+  	</div>
+    </div>
+  </div>
+  <div class="column">
+    <img src="img_forest.jpg" alt="Forest" style="width:100%">
+  </div>
+</div>
+
 ![The University of Hokkaido museum building with trees in front covered in snow](./assets/images/HokudaiSnow.JPG) 
 ![Me in a yukata walking up stairs in traditional Kyoto](./assets/images/MeKyoto.JPG)
 
