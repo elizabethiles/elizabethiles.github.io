@@ -8,30 +8,10 @@ I am a research fellow at the Sydney Institute for Astronomy in the University o
 
 I am a native speaker of English but also have a relatively high Japanese language proficiency - I did my PhD (published in English) at the Univeristy of Hokkaido in Sapporo, Japan.  
 
-A            |  B
 :-------------------------:|:-------------------------:
-![kyoto](./assets/images/MeKyoto.JPG)  |  ![kyoto](./assets/images/MeKyoto.JPG)
+![The University of Hokkaido museum building with trees in front covered in snow](./assets/images/HokudaiSnow.JPG) | !Me in a yukata walking up stairs in traditional Kyoto](./assets/images/MeKyoto.JPG)
 
-
-<p float="left">
-<div class="polaroid">
-  <img src="./assets/images/MeKyoto.JPG" alt="kyoto" style="width:100%">
-  <div class="container">
-  <p>Kyoto</p>
-  </div>
-</div>
-<div class="polaroid">
-  <img src="./assets/images/MeKyoto.JPG" alt="kyoto" style="width:100%">
-  <div class="container">
-  <p>Kyoto</p>
-  </div>
-</div>
-</p>
-
-![The University of Hokkaido museum building with trees in front covered in snow](./assets/images/HokudaiSnow.JPG) 
-![Me in a yukata walking up stairs in traditional Kyoto](./assets/images/MeKyoto.JPG)
-
-* * *
+ * * *
 
 ## Astronomy Research
 
