@@ -10,7 +10,7 @@ I am a native speaker of English but also have a relatively high Japanese langua
 
 A            |  B
 :-------------------------:|:-------------------------:
-![kyoto](./assets/images/MeKyoto.JPG)  |  ![](https://...Ocean.png)
+![kyoto](./assets/images/MeKyoto.JPG)  |  ![kyoto](./assets/images/MeKyoto.JPG)
 
 
 <p float="left">
