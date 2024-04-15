@@ -13,9 +13,6 @@ I am a native speaker of English but also have a relatively high Japanese langua
 	  <div class="container">
 	  <p>Hokudai</p>
 	  </div>
-</div>
-
-<div class="polaroid">
 	  <img src="./assets/images/MeKyoto.JPG" alt="Kyoto" border-radius="8px">
 	  <div class="container">
 	  <p>Kyoto</p>
