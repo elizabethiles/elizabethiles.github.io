@@ -9,7 +9,7 @@ I am a research fellow at the Sydney Institute for Astronomy in the University o
 I am a native speaker of English but also have a relatively high Japanese language proficiency - I did my PhD (published in English) at the Univeristy of Hokkaido in Sapporo, Japan.  
 
 <div class="polaroid">
-	  <img src="./assets/images/HokudaiSnow1.png" alt="Hokudai" style="height:800px">
+	  <img src="./assets/images/HokudaiSnow1.png" alt="Hokudai" style="height:400px, width:533px">
 	  <div class="container">
 	  <p>Hokudai</p>
 	  </div>
