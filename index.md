@@ -23,7 +23,7 @@ I am a native speaker of English but also have a relatively high Japanese langua
 	  </div>
 </div>
 
-![The University of Hokkaido museum building with trees in front covered in snow](./assets/images/HokudaiSnow1.png) ![Me in a yukata walking up stairs in traditional Kyoto](./assets/images/MeKyoto1.png)
+|![The University of Hokkaido museum building with trees in front covered in snow](./assets/images/HokudaiSnow1.png) | ![Me in a yukata walking up stairs in traditional Kyoto](./assets/images/MeKyoto1.png)|
 
  * * *
 
