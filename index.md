@@ -9,10 +9,14 @@ I am a research fellow at the Sydney Institute for Astronomy in the University o
 I am a native speaker of English but also have a relatively high Japanese language proficiency - I did my PhD (published in English) at the Univeristy of Hokkaido in Sapporo, Japan.  
 
 <div class="polaroid">
-	  <img src="./assets/images/HokudaiSnow1.png" alt="Hokudai">
 	  <div class="container">
-	  <p>Hokudai</p>
+	    <img src="./assets/images/HokudaiSnow1.png" alt="Hokudai">
+	    <p>Hokudai</p>
 	  </div>
+          <div class="container">
+            <img src="./assets/images/MeKyoto.JPG" alt="Kyoto" border-radius="8px">
+            <p>Kyoto</p>
+          </div>
 </div>
 
 
