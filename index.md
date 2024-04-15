@@ -10,7 +10,7 @@ I am a native speaker of English but also have a relatively high Japanese langua
 
 <div class="polaroid">
 	  <div class="container">
-	    <img src="./assets/images/HokudaiSnow1.png" alt="Hokudai">
+	    <img src="./assets/images/HokudaiSnow1.png" alt="Hokudai" width="33%">
 	    <p>Hokudai</p>
 	  </div>
           <div class="container">
