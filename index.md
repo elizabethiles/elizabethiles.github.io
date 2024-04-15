@@ -10,11 +10,11 @@ I am a native speaker of English but also have a relatively high Japanese langua
 
 <div class="polaroid">
 	  <div class="container">
-	    <img src="./assets/images/HokudaiSnow1.png" alt="Hokudai" width="33%">
+	    <img src="./assets/images/HokudaiSnow1.png" alt="Hokudai" width="45%">
 	    <p>Hokudai</p>
 	  </div>
           <div class="container">
-            <img src="./assets/images/MeKyoto.JPG" alt="Kyoto" border-radius="8px">
+            <img src="./assets/images/MeKyoto.JPG" alt="Kyoto" width="45%" border-radius="8px">
             <p>Kyoto</p>
           </div>
 </div>
