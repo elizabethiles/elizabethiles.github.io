@@ -29,11 +29,11 @@ blockquote {
 
 ## Astronomy Research
 
-I like to research barred-spiral galaxies and these beautiful structures impact the conditions within them - everything from star formation rates, stellar motion & kinematics, chemical mixing, gas streaming and outflows, to the large- and small-scale structure of inter-stellar medium (ISM). 
+I like to research barred-spiral galaxies and how these beautiful structures impact the conditions within them - everything from star formation rates, stellar motion & kinematics, chemical mixing, gas streaming and outflows, to the large- and small-scale structure of inter-stellar medium (ISM). 
 
-I personally develop N-body numerical simulations specifically tailored to (resolved) galaxies. You can find examples and details in the [GOANNA Simulations Project](./Goannas.html). You can find out about my publications [here](./reference-list.html). 
+I personally develop N-body numerical simulations specifically tailored to nearby (resolved) galaxies. You can find examples and details in the [GOANNA Simulations Project](./Goannas.html). You can find out about my peer-reviewed publications [here](./reference-list.html). 
 
-I am also a member of the <a href="https://www.galah-survey.org">GALAH</a> and <a href="https://gaskap.anu.edu.au">GASKAP</a> collaboration teams, as well as co-chair of the Theory Working Group in the <a href="https://geckos-survey.org">GECKOS</a> collaboration.
+I am a member of the <a href="https://www.galah-survey.org">GALAH</a> (galactic archaeology) and <a href="https://gaskap.anu.edu.au">GASKAP</a> (HI and OH lines in the Milky Way and Magellanic Systems) collaboration teams, as well as co-chair of the Theory Working Group in the <a href="https://geckos-survey.org">GECKOS</a> (observations of edge-on galaxies) collaboration.
 
 |![Synthetic observation image of a two barred-spiral galaxies, on isolated and one interacting.](./assets/images/AB-IsoTideB_synthobs.png) |
 | Mock composite observation-like images produced from two simulations (IsoB - left, TideB - right).| 
@@ -41,8 +41,6 @@ I am also a member of the <a href="https://www.galah-survey.org">GALAH</a> and <
 |  by interaction with a dwarf galaxy-like companion. |
 
 <br>
-
-You can find out about my publications [here](./reference-list.html).
 
 * * *
 
