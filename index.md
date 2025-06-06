@@ -31,8 +31,9 @@ blockquote {
 
 I like to research barred-spiral galaxies and the stars in them. I personally develop N-body numerical simulations of (resolved) galaxies to study stellar populations and kinematics.
 
-|![Synthetic observation image of a spiral galaxy with a bar in the centre](./assets/images/AB-IsoTideB_synthobs.png) |
+|![Synthetic observation image of a two barred-spiral galaxies, on isolated and one interacting.](./assets/images/AB-IsoTideB_synthobs.png) |
 | Mock composite observation-like images produced from two simulations (IsoB - left, TideB - right)| 
+| IsoB is barred-spiral galaxy formed in isolation, while similar structure in TideB has been triggerd by interaction with a dwarf galaxy-like companion |
 
 I am also a member of <a href="https://astro3d.org.au">ASTRO3D</a>, the <a href="https://www.galah-survey.org">GALAH</a> and <a href="https://geckos-survey.org">GECKOS</a> survey collaboration teams.  
 
