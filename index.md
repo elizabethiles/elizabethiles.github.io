@@ -46,6 +46,8 @@ I am a member of the <a href="https://www.galah-survey.org">GALAH</a> (galactic 
 
 I am regularly invloved in science outreach activities, such as public talks, telescope tours and school visits. I think it is important to inspire young people of all genders and socio-economic background to study science if it interests them!
 
+Feel free to send an email via the [contact](###Contact) address if you are interested in any of these outreach opportunities, so that I may assist you in your goal to engage with science (or at least put you in touch with an organisation who can). 
+
 * * *
 
 ## Science Education & Pedagogy
