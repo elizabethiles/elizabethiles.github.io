@@ -68,6 +68,6 @@ Please feel free to contact me via the following email (removing all spaces and 
 
 e-mail: elizabeth . iles [at] sydney . edu . au
 
-###### [Note - If you are interested in organising an outreach event, please ensure you are clear about the intended date and location of the event in your email. I will do my best to accomodate, however, all requests are subject to availability.]
-###### [Note - Prospective graduate students should ensure they attach a current CV and/or academic transcript to enable prompt assessment of their eligibly under the institutional entrance requirements which will take precedence over my own personal opinion.]
+##### [Note - If you are interested in organising an outreach event, please ensure you are clear about the intended date and location of the event in your email. I will do my best to accomodate, however, all requests are subject to availability.]
+##### [Note - Prospective graduate students should ensure they attach a current CV and/or academic transcript to enable prompt assessment of their eligibly under the institutional entrance requirements which will take precedence over my own personal opinion.]
 
