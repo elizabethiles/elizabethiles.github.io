@@ -49,7 +49,22 @@
           {% if site.github.is_project_page %}
             <p class="repo-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
           {% endif %}
-	  
+
+	  ul {
+           list-style: none;
+           margin-left: 0;
+           padding-left: 0;
+           }
+
+          li {
+            padding-left: 1em;
+            text-indent: -1em;
+            }
+
+          li:before {
+            content: "+";
+            padding-right: 5px;
+            }
 	  <p><a href="https://elizabethiles.github.io/#about">About</a></p>
 	  <p><a href="https://elizabethiles.github.io/#astronomy-research">Astronomy Research</a>
           <ul><li><small><a href="https://elizabethiles.github.io/reference-list.html">Publication List</a></small></li></ul></p>
