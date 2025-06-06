@@ -57,8 +57,14 @@ Feel free to send an email via the [contact](###Contact) address if you are inte
 I am interested in understanding the way people 'learn' to *do science*. I don't believe this is an innate skill and, therefore, must be able to be developed. 
 How can we (as scientists) facilitate others to develop these skills?  
 
+I have been developing curriculum resources to help undergraduate students engage with the cognitive aspect of doing science since 2022. If you are interesed in hearing my experience or wish to discuss curriculum and/or cognitive development, please reach out via the [contact](###Contact) address below. I also have peer-reviewed publications in this area listed [here](./reference-list.html). 
+
 * * *
 
 ### Contact
-e-mail: elizabeth.iles [at] sydney.edu.au
+Please feel free to contact me via the following email (removing all spaces and using the appropriate special character). 
 
+e-mail: elizabeth . iles [at] sydney . edu . au
+
+|1. If you are interested in organising an outreach event, please ensure you are clear about the intended date and location of the event in your email. I will do my best to accomodate, however, all requests are subject to availability. |
+|2.Prospective graduate students should ensure they attach a current CV and/or academic transcript to enable prompt assessment of their eligibly under the institutional entrance requirements which will take precedence over my own personal opinion.|
