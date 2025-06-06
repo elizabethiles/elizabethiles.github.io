@@ -9,7 +9,7 @@ I am a Research Associate in Galactic Archaeology at the Sydney Institute for As
 I am a native speaker of English but I am also conversationally fluent in Japanese - I did my PhD (published in English) at the Univeristy of Hokkaido in Sapporo, Japan.  
 
 |![The University of Hokkaido museum building with trees in front covered in snow](./assets/images/HokudaiSnow1.png) | ![Me in a yukata walking up stairs in traditional Kyoto](./assets/images/MeKyoto1.png)|
-|The University of Hokkaido covered in snow. | Walking up stairs in Kyoto on my graduation trip. |
+|The University of Hokkaido covered in snow, as it is for a large period of the year. | Walking up stairs in Kyoto on my graduation trip. |
 
 * * *
 
