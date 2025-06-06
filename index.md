@@ -31,7 +31,8 @@ blockquote {
 
 I like to research barred-spiral galaxies and the stars in them. I personally develop N-body numerical simulations of (resolved) galaxies to study stellar populations and kinematics.
 
-|![Synthetic observation image of a spiral galaxy with a bar in the centre](./assets/images/A-IsoB_synthobs.png) | ![Synthetic observation image of a two arm spiral galaxy with a bar in the centre](./assets/images/B-TideB_synthobs.png)|
+|![Synthetic observation image of a spiral galaxy with a bar in the centre](./assets/images/AB-IsoTideB_synthobs.png) |
+| Mock composite observation-like images produced from two simulations (IsoB - left, TideB - right)| 
 
 I am also a member of <a href="https://astro3d.org.au">ASTRO3D</a>, the <a href="https://www.galah-survey.org">GALAH</a> and <a href="https://geckos-survey.org">GECKOS</a> survey collaboration teams.  
 
