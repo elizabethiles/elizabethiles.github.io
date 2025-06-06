@@ -29,7 +29,7 @@ blockquote {
 
 ## Astronomy Research
 
-I like to research barred-spiral galaxies and the stars in them. I personally develop N-body numerical simulations of (resolved) galaxies to study stellar populations and kinematics.
+I like to research barred-spiral galaxies and these beautiful structures impact the conditions within them - everything from star formation rates, stellar motion & kinematics, chemical mixing, gas streaming and outflows, the large- and small-scale structure of inter-stellar medium (ISM).  I personally develop N-body numerical simulations of (resolved) galaxies to study stellar populations and kinematics.
 
 |![Synthetic observation image of a two barred-spiral galaxies, on isolated and one interacting.](./assets/images/AB-IsoTideB_synthobs.png) |
 | Mock composite observation-like images produced from two simulations (IsoB - left, TideB - right).| 
