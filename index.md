@@ -31,7 +31,7 @@ blockquote {
 
 I like to research barred-spiral galaxies and how these beautiful structures impact the conditions within them - everything from star formation rates, stellar motion & kinematics, chemical mixing, gas streaming and outflows, to the large- and small-scale structure of inter-stellar medium (ISM). 
 
-I personally develop N-body numerical simulations specifically tailored to nearby (resolved) galaxies. You can find examples and details in the [GOANNA Simulations Project](./Goannas.html). You can also find out about my peer-reviewed publications <a href"https://elizabethiles.github.io/goanna-sims.github.io/">here</a>. 
+I personally develop N-body numerical simulations specifically tailored to nearby (resolved) galaxies. You can find examples and details in the [GOANNA Simulations Project](./Goannas.html). You can also find out about my peer-reviewed publications <a href="https://elizabethiles.github.io/goanna-sims.github.io/">here</a>. 
 
 I am a member of the <a href="https://www.galah-survey.org">GALAH</a> (galactic archaeology) and <a href="https://gaskap.anu.edu.au">GASKAP</a> (HI and OH lines in the Milky Way and Magellanic Systems) collaboration teams, as well as co-chair of the Theory Working Group in the <a href="https://geckos-survey.org">GECKOS</a> (observations of edge-on galaxies) collaboration.
 
