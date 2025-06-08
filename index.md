@@ -49,7 +49,7 @@ I am regularly invloved in science outreach activities, such as public talks, te
 
 I believe it is important to inspire people of all genders, ages and socio-economic background to study science if it interests them!
 
-Feel free to send an email via the [contact](###Contact) address if you are interested in any of these outreach opportunities, so that I may assist you in your goal to engage with science (or at least put you in touch with an organisation who can). 
+Feel free to send an email via the [Contact](##Contact) address if you are interested in any of these outreach opportunities, so that I may assist you in your goal to engage with science (or at least put you in touch with an organisation who can). 
 
 * * *
 
@@ -60,7 +60,7 @@ How can we (as scientists) facilitate others to develop these skills?
 
 I have been developing curriculum resources to help undergraduate students engage with the cognitive aspect of doing science since 2022. 
 
-If you are interesed in hearing my experience or wish to discuss curriculum and/or cognitive development, please reach out via the [contact](###Contact) address below. I also have peer-reviewed publications in this area listed [here](./reference-list.html). 
+If you are interesed in hearing my experience or wish to discuss curriculum and/or cognitive development, please reach out via the [Contact](##Contact) address below. I also have peer-reviewed publications in this area listed [here](./reference-list.html). 
 
 * * *
 
